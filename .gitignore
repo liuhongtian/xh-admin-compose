@@ -6,3 +6,4 @@ nacos/logs/*
 redis/data/*
 xh/backend/*
 xh/frontend/*
+xxl-job/*
