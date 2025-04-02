@@ -1,0 +1,8 @@
+.DS_Store
+jenkins/jenkins_home/*
+minio/data/*
+mysql/data/*
+nacos/logs/*
+redis/data/*
+xh/backend/*
+xh/frontend/*
